@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pallav rai
-- 👀 I’m interested in exploring this world via programming
+- 👀 I’m interested in exploring the universe via programming
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any web dev projects
 - 📫 How to reach me - mail - pallavrai39@gmail.com
 
 <!---
