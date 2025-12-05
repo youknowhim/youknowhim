@@ -54,8 +54,8 @@ I enjoy building interactive, meaningful applications using **React, Node.js, Ex
 
 ## 🌐 **Connect With Me**
 
-📧 **Email:** pallavrai39@gmail.com  
-💼 Portfolio: *(coming soon)*  
+📧 **Email:** pallav191913@gmail.com  
+💼 Portfolio:https://pallavmacosfolio.vercel.app/  
 
 ---
 
