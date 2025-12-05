@@ -1,12 +1,64 @@
-- 👋 Hi, I’m Pallav rai
-- 👀 I’m interested in exploring the universe via programming
-- 🌱 I’m currently learning javascript and python
-- 👀 made 2-3 fullstack projects on react js and express js
-- 💞️ I’m looking to collaborate on any web dev projects
-- 📫 How to reach me - mail - pallavrai39@gmail.com
+# 👋 Hey! I'm **Pallav Rai**
 
+🚀 A passionate **Full-Stack Web Developer** who loves exploring the universe of technology through programming.  
+I enjoy building interactive, meaningful applications using **React, Node.js, Express.js, and MySQL**, and continuously learning new tools and frameworks.
 
-<!---
-youknowhim/youknowhim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔥 **About Me**
+
+- 👨‍💻 Full-stack developer focused on **modern JavaScript technologies**
+- 🧠 Experienced in building **multiple full-stack web applications** using:
+  - React.js for frontend UI
+  - Node.js & Express.js for backend APIs
+  - MySQL for database management
+- 🎯 Always eager to explore new technologies and solve real-world problems through code
+- 🤝 Open to collaborating on **web development**, **dashboard systems**, **APIs**, and **full-stack products**
+- 📬 Reach me anytime: **pallav191913@gmail.com**
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🌀 Framer Motion  
+- 🔷 TypeScript  
+- ⚡ Vite  
+
+### **Backend**
+- 🟩 Node.js  
+- 🚏 Express.js  
+- 🔒 JWT, REST APIs  
+
+### **Database**
+- 🗄️ MySQL  
+- 🍃 MongoDB (familiar)  
+
+### **Tools & Others**
+- 🐙 Git & GitHub  
+- 🐳 Docker (Basics)  
+- 🚀 Vercel / Netlify Deployments  
+- 🔧 Postman  
+
+---
+
+## 🎯 **Current Goals**
+
+- Build **more scalable and production-ready applications**
+- Improve backend architecture & system design
+- Master advanced TypeScript patterns and UI/UX workflows
+
+---
+
+## 🌐 **Connect With Me**
+
+📧 **Email:** pallavrai39@gmail.com  
+💼 Portfolio: *(coming soon)*  
+
+---
+
+Thanks for visiting my profile! ✨  
+Let’s collaborate and build something amazing together.
+
