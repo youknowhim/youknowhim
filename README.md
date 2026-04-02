@@ -10,8 +10,8 @@ I enjoy building interactive, meaningful applications using **React, Node.js, Ex
 - 👨‍💻 Full-stack developer focused on **modern JavaScript technologies**
 - 🧠 Experienced in building **multiple full-stack web applications** using:
   - React.js for frontend UI
-  - Node.js & Express.js for backend APIs
-  - MySQL for database management
+  - Node.js ,Express.js,kafka for backend APIs
+  - MySQL and reddis for database management
 - 🎯 Always eager to explore new technologies and solve real-world problems through code
 - 🤝 Open to collaborating on **web development**, **dashboard systems**, **APIs**, and **full-stack products**
 - 📬 Reach me anytime: **pallav191913@gmail.com**
@@ -29,12 +29,14 @@ I enjoy building interactive, meaningful applications using **React, Node.js, Ex
 
 ### **Backend**
 - 🟩 Node.js  
-- 🚏 Express.js  
+- 🚏 Express.js
+- Apache kafka
 - 🔒 JWT, REST APIs  
 
 ### **Database**
 - 🗄️ MySQL  
-- 🍃 MongoDB (familiar)  
+- 🍃 MongoDB (familiar)
+- reddis
 
 ### **Tools & Others**
 - 🐙 Git & GitHub  
