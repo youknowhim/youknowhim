@@ -40,7 +40,7 @@ Clean engineering
 
 <td align="center" width="50%">
 
-### 🔧 WHAT I ENJOY
+### WHAT I ENJOY
 
 Taking a messy problem and turning it into a system that is **simple, reliable and actually useful.**
 
