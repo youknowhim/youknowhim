@@ -1,66 +1,371 @@
-# 👋 Hey! I'm **Pallav Rai**
+# `PALLAV_RAI // ENGINEER`
 
-🚀 A passionate **Full-Stack Web Developer** who loves exploring the universe of technology through programming.  
-I enjoy building interactive, meaningful applications using **React, Node.js, Express.js, and MySQL**, and continuously learning new tools and frameworks.
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗  █████╗ ██╗     ██╗      █████╗ ██╗   ██╗        ║
+║   ██╔══██╗██╔══██╗██║     ██║     ██╔══██╗██║   ██║        ║
+║   ██████╔╝███████║██║     ██║     ███████║██║   ██║        ║
+║   ██╔═══╝ ██╔══██║██║     ██║     ██╔══██║╚██╗ ██╔╝        ║
+║   ██║     ██║  ██║███████╗███████╗██║  ██║ ╚████╔╝         ║
+║   ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝  ╚═══╝          ║
+║                                                              ║
+║   FULL-STACK DEVELOPER  //  BACKEND  //  CLOUD              ║
+║                                                              ║
+║   STATUS  ● ONLINE                                           ║
+║   MODE    BUILD → BREAK → DEBUG → SCALE                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
----
+### `01 // SYSTEM PROFILE`
 
-## 🔥 **About Me**
+```text
+$ whoami
 
-- 👨‍💻 Full-stack developer focused on **modern JavaScript technologies**
-- 🧠 Experienced in building **multiple full-stack web applications** using:
-  - React.js for frontend UI
-  - Node.js ,Express.js,kafka for backend APIs
-  - MySQL and reddis for database management
-- 🎯 Always eager to explore new technologies and solve real-world problems through code
-- 🤝 Open to collaborating on **web development**, **dashboard systems**, **APIs**, and **full-stack products**
-- 📬 Reach me anytime: **pallav191913@gmail.com**
+Pallav Rai
 
----
+Full-Stack Developer with a strong interest in
+Backend Engineering, Cloud Architecture and
+Distributed Systems.
 
-## 🛠️ **Tech Stack**
+I build applications.
 
-### **Frontend**
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
-- 🌀 Framer Motion  
-- 🔷 TypeScript  
-- ⚡ Vite  
+More importantly, I like understanding what happens
+between the request and the response.
+```
 
-### **Backend**
-- 🟩 Node.js  
-- 🚏 Express.js
-- Apache kafka
-- 🔒 JWT, REST APIs  
+```text
+FOCUS
+────────────────────────────────────────────────────────
 
-### **Database**
-- 🗄️ MySQL  
-- 🍃 MongoDB (familiar)
-- reddis
-
-### **Tools & Others**
-- 🐙 Git & GitHub  
-- 🐳 Docker (Basics)  
-- 🚀 Vercel / Netlify Deployments  
-- 🔧 Postman  
-
----
-
-## 🎯 **Current Goals**
-
-- Build **more scalable and production-ready applications**
-- Improve backend architecture & system design
-- Master advanced TypeScript patterns and UI/UX workflows
+Backend Engineering        ████████████████████░
+Cloud & AWS                ██████████████████░░
+System Design              █████████████████░░░
+Distributed Systems        ████████████████░░░░
+Real-Time Systems          █████████████████░░░
+DevOps                     ██████████████░░░░░░
+```
 
 ---
 
-## 🌐 **Connect With Me**
+### `02 // ENGINEERING STACK`
 
-📧 **Email:** pallav191913@gmail.com  
-💼 Portfolio: https://pallavmacosfolio.vercel.app/  
+#### `LANGUAGES`
+
+`JavaScript` `TypeScript` `Python` `SQL`
+
+#### `FRONTEND`
+
+`React` `Vite` `HTML5` `CSS3`
+
+#### `BACKEND`
+
+`Node.js` `Express.js` `REST APIs` `Socket.IO`
+
+#### `DATABASES`
+
+`MySQL` `MongoDB` `Redis`
+
+#### `MESSAGING & DISTRIBUTED SYSTEMS`
+
+`Apache Kafka` `Message Queues` `Event-Driven Architecture`
+
+#### `CLOUD / AWS`
+
+`AWS EC2` `AWS S3` `AWS Lambda` `AWS IAM` `AWS CloudWatch`
+
+#### `DEVOPS`
+
+`Docker` `Git` `GitHub` `CI/CD` `Linux` `Nginx`
+
+#### `TESTING`
+
+`Jest` `Vitest` `API Testing`
 
 ---
 
-Thanks for visiting my profile! ✨  
-Let’s collaborate and build something amazing together.
+### `03 // HOW I THINK ABOUT SYSTEMS`
 
+```text
+                       ┌──────────────┐
+                       │    CLIENT    │
+                       └──────┬───────┘
+                              │
+                              ▼
+                       ┌──────────────┐
+                       │ API / GATEWAY│
+                       └──────┬───────┘
+                              │
+                    ┌─────────┼─────────┐
+                    │         │         │
+                    ▼         ▼         ▼
+                ┌───────┐ ┌───────┐ ┌────────┐
+                │ Redis │ │ Kafka │ │  S3    │
+                │ CACHE │ │ EVENT │ │ FILES  │
+                └───┬───┘ └───┬───┘ └────────┘
+                    │         │
+                    │         ▼
+                    │    ┌───────────┐
+                    │    │ CONSUMERS │
+                    │    └─────┬─────┘
+                    │          │
+                    └────┬─────┘
+                         ▼
+                  ┌───────────────┐
+                  │   SERVICES    │
+                  └───────┬───────┘
+                          │
+                   ┌──────┴──────┐
+                   ▼             ▼
+              ┌─────────┐   ┌─────────┐
+              │ MySQL   │   │ MongoDB │
+              └─────────┘   └─────────┘
+```
+
+I enjoy thinking about:
+
+`scalability`
+
+`fault tolerance`
+
+`caching`
+
+`asynchronous processing`
+
+`event-driven architecture`
+
+`database design`
+
+`real-time communication`
+
+`cloud infrastructure`
+
+---
+
+### `04 // SELECTED BUILDS`
+
+#### `01 — ABG GROWTH ENGINE`
+
+```text
+TYPE       → Web Analytics Platform
+ROLE       → Full-Stack / Backend
+```
+
+A lightweight analytics platform designed to understand what happens inside a website.
+
+```text
+✓ Real-time visitors
+✓ Page analytics
+✓ Sessions
+✓ Custom conversion events
+✓ Visitor tracking
+✓ AI-generated insights
+✓ Lightweight tracking script
+```
+
+`React` `Node.js` `Express` `SQL`
+
+---
+
+#### `02 — REAL-TIME PLAYBACK ENGINE`
+
+```text
+TYPE       → Distributed Real-Time System
+ROLE       → Backend / Architecture
+```
+
+A multi-display playback synchronization system where the **server acts as the single source of truth**.
+
+```text
+Controller
+     │
+     ▼
+┌─────────────┐
+│    SERVER   │
+│             │
+│ State       │
+│ Drift       │
+│ Sync        │
+└──────┬──────┘
+       │
+ ┌─────┼─────┐
+ ▼     ▼     ▼
+D1    D2    D3
+```
+
+```text
+✓ Server-authoritative state
+✓ Socket.IO communication
+✓ Drift detection
+✓ Automatic correction
+✓ Display heartbeat/reporting
+✓ Controller dashboard
+✓ Multi-client synchronization
+```
+
+`Node.js` `Socket.IO` `Real-Time Systems`
+
+---
+
+#### `03 — SPIRITUAL RAG`
+
+```text
+TYPE       → AI / RAG
+ROLE       → AI Engineering
+```
+
+A retrieval-augmented AI system built around a large curated spiritual knowledge base.
+
+```text
+SOURCE DATA
+     ↓
+PROCESSING
+     ↓
+KNOWLEDGE BASE
+     ↓
+RETRIEVAL
+     ↓
+LLM
+     ↓
+CONTEXT-AWARE RESPONSE
+```
+
+`Python` `RAG` `LLMs` `Gemini` `NLP`
+
+---
+
+#### `04 — SURPLUS FOOD NETWORK`
+
+```text
+TYPE       → Full-Stack Platform
+ROLE       → Full-Stack Engineering
+```
+
+A platform designed to connect surplus food with organizations and people who need it.
+
+`React` `Node.js` `Express` `SQL`
+
+---
+
+### `05 // CLOUD MINDSET`
+
+```text
+LOCAL
+ │
+ ├── Docker
+ ├── Node.js
+ └── Database
+        │
+        ▼
+      CLOUD
+        │
+        ├── EC2       → Compute
+        ├── Lambda    → Serverless
+        ├── S3        → Object Storage
+        ├── IAM       → Access Control
+        └── CloudWatch→ Observability
+```
+
+I'm interested in building systems where infrastructure is treated as part of the product — not something added at the end.
+
+---
+
+### `06 // CURRENTLY LEARNING`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  AWS / CLOUD ARCHITECTURE                 ████████░  │
+│  KAFKA / EVENT STREAMING                  ███████░░  │
+│  REDIS / CACHING                          ███████░░  │
+│  SYSTEM DESIGN                            ████████░  │
+│  DOCKER / DEVOPS                          ███████░░  │
+│  DISTRIBUTED SYSTEMS                      ██████░░░  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+The goal isn't to collect technologies.
+
+It's to understand **when and why to use them.**
+
+---
+
+### `07 // ENGINEERING PRINCIPLES`
+
+```text
+01  Keep the server authoritative.
+
+02  Make expensive work asynchronous.
+
+03  Cache what doesn't need recomputation.
+
+04  Let services communicate through events when appropriate.
+
+05  Design for failure, not just the happy path.
+
+06  Measure before optimizing.
+
+07  Prefer simple architecture until complexity is justified.
+```
+
+---
+
+### `08 // CURRENT TERMINAL`
+
+```text
+pallav@dev:~$ cat interests.txt
+
+backend engineering
+cloud architecture
+distributed systems
+real-time systems
+system design
+databases
+developer tooling
+product engineering
+
+pallav@dev:~$ systemctl status curiosity
+
+● curiosity.service
+  Loaded: loaded
+  Active: running
+  Restart: always
+```
+
+---
+
+### `09 // CONNECT`
+
+<p align="center">
+
+<a href="https://github.com/Pallavian4">
+<img src="https://img.shields.io/badge/GitHub-Pallavian4-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://abggrowthengine.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     BUILD SMALL. THINK DEEP. SCALE WHEN NECESSARY.          ║
+║                                                              ║
+║                    pallavrai // 2026                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <sub>⚡ Built with curiosity, caffeine and an unreasonable number of terminal tabs.</sub>
+</p>
