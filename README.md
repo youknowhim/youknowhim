@@ -57,7 +57,7 @@
 
 ---
 
-# 🟢 `// ABOUT ME`
+# `ABOUT ME`
 
 <div align="center">
 
@@ -65,17 +65,17 @@
 <tr>
 <td width="100%" align="left">
 
-🔭 Building **full-stack applications, backend services & real-time systems**
+Building **full-stack applications, backend services & real-time systems**
 
-🌱 Currently going deeper into **AWS, system design, distributed systems, Kafka & Redis**
+Currently going deeper into **AWS, system design, distributed systems, Kafka & Redis**
 
-💬 Ask me about **Node.js, React, REST APIs, databases, WebSockets & backend architecture**
+Ask me about **Node.js, React, REST APIs, databases, WebSockets & backend architecture**
 
-☁️ Interested in **cloud infrastructure, asynchronous processing, scalability & real-time systems**
+Interested in **cloud infrastructure, asynchronous processing, scalability & real-time systems**
 
-🤝 Open to **software engineering, backend, cloud & open-source opportunities**
+Open to **software engineering, backend, cloud & open-source opportunities**
 
-⚡ I enjoy taking a problem from **idea → architecture → code → deployment**
+I enjoy taking a problem from **idea → architecture → code → deployment**
 
 </td>
 </tr>
@@ -85,13 +85,13 @@
 
 ---
 
-# 🎨 `// TECH STACK`
+# `TECH STACK`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟨 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark"/>
 
@@ -101,7 +101,7 @@
 
 <br>
 
-### 🔵 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark"/>
 
@@ -113,7 +113,7 @@
 
 <td width="50%" valign="top">
 
-### 🟢 Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
