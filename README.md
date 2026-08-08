@@ -274,22 +274,15 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 ---
 
-# `GITHUB TELEMETRY`
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=youknowhim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFFB2&text_color=C9D1D9&icon_color=00E5FF&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowhim&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFFB2&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowhim&theme=dark&hide_border=true&background=0D1117&ring=7CFFB2&fire=FF8C42&currStreakLabel=7CFFB2&sideLabels=C9D1D9&dates=6E7681"/>
+<img
+  src="https://streak-stats.demolab.com/?user=youknowhim&theme=dark&hide_border=true&background=0D1117&ring=7CFFB2&fire=FF8C42&currStreakNum=7CFFB2&sideNums=FFFFFF&currStreakLabel=7CFFB2&sideLabels=C9D1D9&dates=8B949E"
+  alt="Pallav Rai GitHub Streak Stats"
+  width="100%"
+/>
 
 </div>
-
----
-
 <div align="center">
 
 <img
