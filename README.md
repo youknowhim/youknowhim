@@ -9,15 +9,27 @@
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/youknowhim">
 <img src="https://img.shields.io/badge/GITHUB-youknowhim-0D1117?style=for-the-badge&logo=github&logoColor=7CFFB2"/>
 </a>
-<a href="https://grindtech.vercel.app/">
-<img src="https://img.shields.io/badge/AI_INTERVIEW_PLATFORM-LIVE-111111?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
+
+<a href="https://www.linkedin.com/in/pallav-rai-8a2252245/">
+<img src="https://img.shields.io/badge/LINKEDIN-PALLAV_RAI-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+
+<a href="mailto:pallav191913@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1i4OL94WveZ-MOsnCoxXP5x6HsBhf_VVW/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-7CFFB2?style=for-the-badge&logoColor=0D1117"/>
+</a>
+
+</div>
 
 <br><br>
 
