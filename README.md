@@ -57,47 +57,41 @@
 
 ---
 
-#  `ABOUT ME`
+# 🟢 `// ABOUT ME`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" align="left">
 
- Building **full-stack applications & backend systems**
+🔭 Building **full-stack applications, backend services & real-time systems**
 
- Currently going deeper into **AWS, system design, distributed systems, Kafka & Redis**
+🌱 Currently going deeper into **AWS, system design, distributed systems, Kafka & Redis**
 
- Comfortable with **Node.js, React, REST APIs, databases, WebSockets & backend architecture**
+💬 Ask me about **Node.js, React, REST APIs, databases, WebSockets & backend architecture**
 
- Interested in **cloud infrastructure, asynchronous processing, scalability & real-time systems**
+☁️ Interested in **cloud infrastructure, asynchronous processing, scalability & real-time systems**
 
- Open to **software engineering, backend, cloud & open-source opportunities**
+🤝 Open to **software engineering, backend, cloud & open-source opportunities**
 
- My favourite part of engineering is taking something from **idea → architecture → code → deployment**
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,aws,docker,redis,mongodb,mysql&perline=5&theme=dark"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=youknowhim&label=VISITORS&color=7CFFB2&style=for-the-badge"/>
+⚡ I enjoy taking a problem from **idea → architecture → code → deployment**
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-# `TECH STACK`
+# 🎨 `// TECH STACK`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Languages
+### 🟨 Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark"/>
 
@@ -105,19 +99,21 @@
 
 `JavaScript` · `TypeScript` · `Python` · `Java` · `SQL`
 
-### Frontend
+<br>
+
+### 🔵 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark"/>
 
 <br>
 
-`React` · `Vite` · `HTML5` · `CSS3` · `Tailwind`
+`React` · `Vite` · `HTML5` · `CSS3` · `Tailwind CSS`
 
 </td>
 
 <td width="50%" valign="top">
 
-###  Backend
+### 🟢 Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
@@ -125,7 +121,9 @@
 
 `Node.js` · `Express.js` · `REST APIs` · `JWT` · `Socket.IO`
 
-### Data
+<br>
+
+### 🟣 Data & Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark"/>
 
@@ -139,7 +137,7 @@
 <tr>
 <td width="50%" valign="top">
 
-###  Cloud
+### 🟠 Cloud
 
 <img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
 
@@ -151,7 +149,7 @@
 
 <td width="50%" valign="top">
 
-### DevOps & Systems
+### 🔴 DevOps & Systems
 
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&theme=dark"/>
 
@@ -165,17 +163,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-6C5CE7?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/System_Design-6C5CE7?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/REST_API-00A8E8?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
 
 </div>
 
 ---
 
-# `// FEATURED PROJECTS`
+# `FEATURED PROJECTS`
 
 <table>
 <tr>
