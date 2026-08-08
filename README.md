@@ -1,6 +1,58 @@
-# 💫 About Me:
-I’m currently working on full-stack and backend systems<br>I’m looking to collaborate on backend, cloud & open-source projects<br>I’m looking for help with system design and distributed systems<br>I’m currently learning AWS, Kafka, Redis & cloud architecture<br>Ask me about Node.js, React, APIs, real-time systems & databases<br>Fun fact: I enjoy turning complex problems into simple, scalable systems.
+# `ABOUT ME`
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7CFFB2&center=true&vCenter=true&width=850&lines=I+build+things+that+solve+real+problems.;From+APIs+to+cloud+systems+%E2%80%94+I+like+knowing+how+things+work.;Turning+ideas+into+products+one+commit+at+a+time.;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Ship." alt="Typing animation" />
+
+<br><br>
+
+<table>
+<tr>
+
+### WHAT I LIKE BUILDING
+
+`REST APIs` · `Real-Time Systems`  
+`Distributed Systems` · `Cloud Apps`  
+`AI-Powered Products` · `Backend Services`
+
+I enjoy the part where a simple idea turns into  
+**architecture → implementation → deployment.**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<pre>
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  pallav@github ~ $ whoami                                           │
+│                                                                      │
+│  → Full-Stack Developer                                              │
+│  → Backend Engineer                                                  │
+│  → Cloud Explorer                                                    │
+│  → Problem Solver                                                    │
+│                                                                      │
+│  pallav@github ~ $ current_focus                                    │
+│                                                                      │
+│  AWS · System Design · Kafka · Redis · Distributed Systems           │
+│                                                                      │
+│  pallav@github ~ $ philosophy                                       │
+│                                                                      │
+│  "Don't just make it work. Understand why it works."                │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+</pre>
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILDING-7CFFB2?style=for-the-badge&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LEARNING-00E5FF?style=for-the-badge&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/SHIPPING-FF8C42?style=for-the-badge&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/DEBUGGING-B084FF?style=for-the-badge&logoColor=0D1117"/>
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmplv10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pallav-rai-8a2252245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pallav191913@gmail.com) 
