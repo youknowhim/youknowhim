@@ -123,7 +123,7 @@ I enjoy taking a problem from **idea → architecture → code → deployment**
 
 <br>
 
-### 🟣 Data & Databases
+### Data & Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark"/>
 
@@ -137,7 +137,7 @@ I enjoy taking a problem from **idea → architecture → code → deployment**
 <tr>
 <td width="50%" valign="top">
 
-### 🟠 Cloud
+### Cloud
 
 <img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
 
@@ -149,7 +149,7 @@ I enjoy taking a problem from **idea → architecture → code → deployment**
 
 <td width="50%" valign="top">
 
-### 🔴 DevOps & Systems
+### DevOps & Systems
 
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&theme=dark"/>
 
