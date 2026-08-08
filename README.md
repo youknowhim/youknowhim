@@ -1,105 +1,123 @@
-cat > README.md <<'EOF'
+
 <div align="center">
 
-# `PALLAV RAI`
+#  PALLAV RAI
 
-### `Full-Stack Developer` · `Backend Engineering` · `Cloud & Systems`
+### `Full-Stack Developer` · `Backend Engineer` · `Cloud Enthusiast`
 
-<p>
-<b>Building products on the surface.</b><br>
-<b>Understanding systems underneath.</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7CFFB2&center=true&vCenter=true&width=700&lines=Building+backend+systems+that+actually+work.;Turning+ideas+into+shippable+products.;Learning+how+systems+scale.;Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve." />
 
 <br>
 
 <a href="https://github.com/youknowhim">
-<img src="https://img.shields.io/badge/GitHub-youknowhim-0d1117?style=for-the-badge&logo=github&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/GITHUB-youknowhim-0D1117?style=for-the-badge&logo=github&logoColor=7CFFB2"/>
+</a>
+<a href="https://grindtech.vercel.app/">
+<img src="https://img.shields.io/badge/AI_INTERVIEW_PLATFORM-LIVE-111111?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <br><br>
 
 <pre>
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   youknowhim@github:~$ systemctl status developer            │
-│                                                              │
-│   ● developer.service                                        │
-│     Loaded: loaded                                           │
-│     Active: active (building)                                │
-│                                                              │
-│   focus → backend · cloud · real-time · system design        │
-│   mode  → build → debug → understand → improve               │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│  pallav@github:~$ ./developer --status                              │
+│                                                                      │
+│  ┌────────────────┐       ┌─────────────────────────────────────┐   │
+│  │                │       │  BACKEND        ████████████████░  │   │
+│  │    ▄▀▀▀▀▀▄     │       │  FULL-STACK     ███████████████░░  │   │
+│  │   █  ◉ ◉  █    │       │  CLOUD          ████████████░░░░  │   │
+│  │   █   ▿   █    │       │  SYSTEM DESIGN  ███████████░░░░░  │   │
+│  │    ▀▄▄▄▄▄▀     │       │  REAL-TIME      ███████████░░░░░  │   │
+│  │                │       └─────────────────────────────────────┘   │
+│  └────────────────┘                                                 │
+│                                                                      │
+│  status   : ONLINE        focus : BACKEND + CLOUD                   │
+│  mode     : BUILDING      next  : SHIP SOMETHING USEFUL             │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 </pre>
 
 </div>
 
 ---
 
-## 🛰️ About Me
-
-🔭 Building **full-stack applications, backend services & real-time systems**  
-🌱 Currently deepening my knowledge of **AWS, system design, distributed systems, Kafka & Redis**  
-💬 Ask me about **Node.js, React, REST APIs, databases, WebSockets & backend architecture**  
-☁️ Interested in **cloud infrastructure, asynchronous processing, scalability & observability**  
-🤝 Open to **software engineering, backend, cloud and open-source opportunities**  
-⚡ I like taking a problem from **idea → architecture → implementation → deployment**
-
----
-
-## 💻 Core Stack
+#  `// ABOUT ME`
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="60%" valign="top">
 
-### `LANGUAGES`
+ Building **full-stack applications & backend systems**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark"/>
+ Currently going deeper into **AWS, system design, distributed systems, Kafka & Redis**
 
-<br><br>
+ Comfortable with **Node.js, React, REST APIs, databases, WebSockets & backend architecture**
 
-`JavaScript` · `TypeScript` · `Python` · `Java` · `SQL`
+ Interested in **cloud infrastructure, asynchronous processing, scalability & real-time systems**
+
+ Open to **software engineering, backend, cloud & open-source opportunities**
+
+ My favourite part of engineering is taking something from **idea → architecture → code → deployment**
 
 </td>
 
-<td valign="top" width="50%">
+<td width="40%" align="center">
 
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,aws,docker,redis,mongodb,mysql&perline=5&theme=dark"/>
 
 <br><br>
 
-`React` · `Vite` · `HTML5` · `CSS3` · `Tailwind CSS`
+<img src="https://komarev.com/ghpvc/?username=youknowhim&label=VISITORS&color=7CFFB2&style=for-the-badge"/>
 
 </td>
 </tr>
+</table>
 
+---
+
+# `TECH STACK`
+
+<table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### `BACKEND`
+### Languages
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark"/>
 
-<br><br>
+<br>
 
-`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Socket.IO`
+`JavaScript` · `TypeScript` · `Python` · `Java` · `SQL`
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark"/>
+
+<br>
+
+`React` · `Vite` · `HTML5` · `CSS3` · `Tailwind`
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### `DATA`
+###  Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+<br>
+
+`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Socket.IO`
+
+### Data
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark"/>
 
-<br><br>
+<br>
 
 `MySQL` · `MongoDB` · `Redis` · `SQL`
 
@@ -107,25 +125,25 @@ cat > README.md <<'EOF'
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### `CLOUD`
+###  Cloud
 
 <img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
 
-<br><br>
+<br>
 
-`AWS` · `S3` · `Lambda` · `EC2` · `IAM` · `CloudWatch`
+`AWS` · `S3` · `Lambda` · `EC2`
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### `DEVOPS`
+### DevOps & Systems
 
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&theme=dark"/>
 
-<br><br>
+<br>
 
 `Docker` · `Linux` · `Nginx` · `Git` · `GitHub`
 
@@ -133,61 +151,91 @@ cat > README.md <<'EOF'
 </tr>
 </table>
 
-### `DISTRIBUTED / REAL-TIME`
+<div align="center">
 
-<img src="https://img.shields.io/badge/Apache_Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D"/>
-<img src="https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge&logo=diagramsdotnet&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-6C5CE7?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/REST_API-00A8E8?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
+
+</div>
 
 ---
 
-# `01 // WHAT I BUILD`
+# `// FEATURED PROJECTS`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚡ Real-Time Playback Engine
+<div align="center">
 
-**Server-authoritative multi-display synchronization**
+##  AI INTERVIEWING PLATFORM
+
+### `GrindTech`
+
+<a href="https://grindtech.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-00E5FF?style=for-the-badge&logoColor=black"/>
+</a>
+
+</div>
+
+<br>
+
+An **AI-powered interview preparation platform** designed around realistic interview practice and feedback.
 
 <pre>
-        CONTROLLER
-             │
-             ▼
+        CANDIDATE
+            │
+            ▼
       ┌─────────────┐
-      │   SERVER    │
-      │             │
-      │ state       │
-      │ drift       │
-      │ sync        │
+      │  INTERVIEW  │
+      │     AI      │
       └──────┬──────┘
              │
-       ┌─────┼─────┐
-       ▼     ▼     ▼
-      D1    D2    D3
-       │     │     │
-       └─────┼─────┘
-             │
-        status reports
+      ┌──────┼──────┐
+      ▼      ▼      ▼
+   QUESTIONS  ANSWERS  ANALYSIS
+                    │
+                    ▼
+                FEEDBACK
 </pre>
 
-`Node.js` `Socket.IO` `Real-Time`
+**Focus**
 
-• Server as the source of truth  
-• Periodic display reporting  
-• Drift detection  
-• Automatic correction  
-• Multi-client coordination  
+• AI-assisted interview experience  
+• Interactive interview workflow  
+• Candidate-focused feedback  
+• Modern full-stack architecture  
+• Built as a practical product rather than a demo-only UI
+
+<br>
+
+<a href="https://grindtech.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_grindtech.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 ABG Growth Engine
+<div align="center">
 
-**Lightweight website analytics platform**
+## 📊 ABG GROWTH ENGINE
+
+### `Web Analytics Platform`
+
+<a href="https://abggrowthengine.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-7CFFB2?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</div>
+
+<br>
+
+A lightweight analytics platform for tracking website behaviour and turning activity into useful insights.
 
 <pre>
  WEBSITE
@@ -198,182 +246,102 @@ cat > README.md <<'EOF'
     ▼
  ANALYTICS API
     │
-    ├── visitors
-    ├── sessions
-    ├── pages
-    ├── events
-    └── conversions
+    ├── Visitors
+    ├── Sessions
+    ├── Pages
+    ├── Events
+    └── Conversions
     │
     ▼
  DASHBOARD
 </pre>
 
-`React` `Node.js` `SQL`
+**Focus**
 
-• Real-time visitors  
-• Session tracking  
-• Conversion events  
-• Page analytics  
-• Custom events  
+• Real-time visitor tracking  
+• Session & page analytics  
+• Custom conversion events  
+• Analytics dashboard  
 • AI-generated insights  
+• Lightweight tracking integration
+
+<br>
 
 <a href="https://abggrowthengine.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-7CFFB2?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/🌐_abggrowthengine.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=7CFFB2"/>
 </a>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Spiritual RAG
-
-**Retrieval-augmented conversational system**
-
-<pre>
-CONTENT
-   ↓
-PROCESSING
-   ↓
-KNOWLEDGE BASE
-   ↓
-RETRIEVAL
-   ↓
-LLM
-   ↓
-RESPONSE
-</pre>
-
-`Python` `RAG` `Gemini` `NLP`
-
-A retrieval-based conversational system built around a curated collection of spiritual content.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🍱 Surplus Food Network
-
-**Full-stack food redistribution platform**
-
-<pre>
-React
-  ↓
-Node.js / Express
-  ↓
-SQL
-  ↓
-Platform
-</pre>
-
-A platform designed to connect surplus food with organizations and people who need it.
-
-`React` `Node.js` `Express` `SQL`
-
-</td>
 </tr>
 </table>
 
 ---
 
-# `02 // ENGINEERING MINDSET`
+# `// HOW I THINK ABOUT SYSTEMS`
 
 <div align="center">
 
 <pre>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   REQUEST                                                    │
-│      │                                                       │
-│      ▼                                                       │
-│   ┌─────────┐       ┌─────────┐       ┌────────────┐        │
-│   │   API   │ ────► │ SERVICE │ ────► │ DATABASE   │        │
-│   └────┬────┘       └────┬────┘       └────────────┘        │
-│        │                 │                                  │
-│        │                 ├────────► Redis                   │
-│        │                 │                                  │
-│        │                 └────────► Queue / Events           │
-│        │                                                    │
-│        └──────────────────────────────► RESPONSE             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                         ┌─────────────┐
+                         │    CLIENT   │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │     API     │
+                         └──────┬──────┘
+                                │
+                  ┌─────────────┼─────────────┐
+                  │             │             │
+                  ▼             ▼             ▼
+             ┌─────────┐   ┌─────────┐   ┌─────────┐
+             │ CACHE   │   │ SERVICE │   │  QUEUE  │
+             │ Redis   │   │ Node.js │   │  Kafka  │
+             └─────────┘   └────┬────┘   └────┬────┘
+                                │             │
+                                ▼             ▼
+                         ┌─────────────┐  ┌──────────┐
+                         │  DATABASE   │  │ WORKERS  │
+                         │ MySQL/Mongo │  │  Async   │
+                         └─────────────┘  └──────────┘
 </pre>
 
 </div>
 
-<pre>
-01  Keep the critical path small.
+### Engineering principles
 
-02  Move expensive work to asynchronous flows when possible.
-
-03  Cache data that doesn't need to be recomputed.
-
-04  Use queues when work doesn't need to block the request.
-
-05  Prefer loose coupling when systems need to scale independently.
-
-06  Design for failure instead of assuming the happy path.
-
-07  Measure before optimizing.
-
-08  Choose architecture based on the problem — not the hype.
-</pre>
+`01` Keep the critical path small.  
+`02` Move expensive work to asynchronous flows when possible.  
+`03` Cache what doesn't need to be recomputed.  
+`04` Use queues when work doesn't need to block the request.  
+`05` Design for failure instead of assuming the happy path.  
+`06` Measure before optimizing.  
+`07` Choose architecture based on the problem — not the hype.
 
 ---
 
-# `03 // CURRENTLY EXPLORING`
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### ☁️ CLOUD
-
-`AWS`  
-`S3`  
-`Lambda`  
-`EC2`  
-`IAM`  
-`CloudWatch`
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚡ DISTRIBUTED
-
-`Kafka`  
-`Redis`  
-`Queues`  
-`Pub/Sub`  
-`Events`  
-`Caching`
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ SYSTEMS
-
-`System Design`  
-`Scalability`  
-`Concurrency`  
-`Fault Tolerance`  
-`Observability`  
-`Real-Time`
-
-</td>
-</tr>
-</table>
-
----
-
-# `04 // GITHUB TELEMETRY`
+#  `// CURRENTLY EXPLORING`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=youknowhim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFFB2&text_color=C9D1D9&icon_color=7CFFB2&include_all_commits=true&count_private=true"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-Serverless-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-Event_Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-Architecture-6C5CE7?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-Scalability-00A8E8?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</div>
+
+---
+
+# `// GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=youknowhim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFFB2&text_color=C9D1D9&icon_color=00E5FF&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowhim&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFFB2&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
 
@@ -385,35 +353,34 @@ A platform designed to connect surplus food with organizations and people who ne
 
 ---
 
-# `05 // CONTRIBUTION ACTIVITY`
+#  `// CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowhim&bg_color=0D1117&color=7CFFB2&line=7CFFB2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowhim&bg_color=0D1117&color=7CFFB2&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# `06 // DEVELOPER STATUS`
+# 🖥️ `// DEVELOPER STATUS`
 
 <div align="center">
 
 <table>
 <tr>
+
 <td>
 
 <pre>
 youknowhim@github:~$ status
 
-SERVICE             STATUS
-
-backend             [ ONLINE ]
-cloud               [ ONLINE ]
-real-time           [ ONLINE ]
-system-design       [ LEARNING ]
-devops              [ BUILDING ]
-curiosity           [ UNLIMITED ]
+backend          [ ONLINE ]
+full-stack       [ ONLINE ]
+cloud            [ LEARNING ]
+real-time        [ BUILDING ]
+system-design    [ LEARNING ]
+curiosity        [ UNLIMITED ]
 </pre>
 
 </td>
@@ -423,10 +390,10 @@ curiosity           [ UNLIMITED ]
 <pre>
 youknowhim@github:~$ uptime
 
-BUILDING........... ✓
-LEARNING........... ✓
-DEBUGGING.......... ✓
-SHIPPING........... ✓
+BUILDING........ ✓
+LEARNING........ ✓
+DEBUGGING....... ✓
+SHIPPING........ ✓
 
 next:
 → build
@@ -436,6 +403,7 @@ next:
 </pre>
 
 </td>
+
 </tr>
 </table>
 
@@ -443,33 +411,30 @@ next:
 
 ---
 
-# `07 // CONNECT`
-
 <div align="center">
 
 <a href="https://github.com/youknowhim">
 <img src="https://img.shields.io/badge/GITHUB-youknowhim-0D1117?style=for-the-badge&logo=github&logoColor=7CFFB2"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://grindtech.vercel.app/">
+<img src="https://img.shields.io/badge/GRINDTECH-LIVE-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=youknowhim&label=PROFILE%20VIEWS&color=7CFFB2&style=for-the-badge"/>
 
 <br><br>
 
 <pre>
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│       BUILD SMALL. THINK DEEP. SCALE WHEN NECESSARY.        │
+│        BUILD SMALL. THINK DEEP. SHIP SOMETHING USEFUL.       │
 │                                                              │
-│                  youknowhim // 2026                          │
+│                     youknowhim 2026                          │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 </pre>
 
+<br>
+
+<code> BUILD → BREAK → DEBUG → SCALE</code>
+
 </div>
-EOF
