@@ -327,7 +327,11 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7CFFB2/youknowhim" alt="Pallav's GitHub Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/7CFFB2/youknowhim" alt="Pallav Rai GitHub Contribution Graph" width="100%"/>
+
+<br><br>
+
+<sub>Live contribution activity · <a href="https://github.com/youknowhim">github.com/youknowhim</a></sub>
 
 </div>
 
