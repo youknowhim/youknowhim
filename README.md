@@ -57,34 +57,6 @@
 
 ---
 
-# `ABOUT ME`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%" align="left">
-
-Building **full-stack applications, backend services & real-time systems**
-
-Currently going deeper into **AWS, system design, distributed systems, Kafka & Redis**
-
-Ask me about **Node.js, React, REST APIs, databases, WebSockets & backend architecture**
-
-Interested in **cloud infrastructure, asynchronous processing, scalability & real-time systems**
-
-Open to **software engineering, backend, cloud & open-source opportunities**
-
-I enjoy taking a problem from **idea → architecture → code → deployment**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 # `TECH STACK`
 
 <table>
@@ -319,18 +291,6 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 </div>
 
-Engineering principles
-
-`01` Keep the critical path small.  
-`02` Move expensive work to asynchronous flows when possible.  
-`03` Cache what doesn't need to be recomputed.  
-`04` Use queues when work doesn't need to block the request.  
-`05` Design for failure instead of assuming the happy path.  
-`06` Measure before optimizing.  
-`07` Choose architecture based on the problem — not the hype.
-
----
-
 #  `CURRENTLY EXPLORING`
 
 <div align="center">
@@ -367,55 +327,7 @@ Engineering principles
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowhim&bg_color=0D1117&color=7CFFB2&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-#  `DEVELOPER STATUS`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td>
-
-<pre>
-youknowhim@github:~$ status
-
-backend          [ ONLINE ]
-full-stack       [ ONLINE ]
-cloud            [ LEARNING ]
-real-time        [ BUILDING ]
-system-design    [ LEARNING ]
-curiosity        [ UNLIMITED ]
-</pre>
-
-</td>
-
-<td>
-
-<pre>
-youknowhim@github:~$ uptime
-
-BUILDING........ ✓
-LEARNING........ ✓
-DEBUGGING....... ✓
-SHIPPING........ ✓
-
-next:
-→ build
-→ break
-→ understand
-→ improve
-</pre>
-
-</td>
-
-</tr>
-</table>
+<img src="https://ghchart.rshah.org/7CFFB2/youknowhim" alt="Pallav's GitHub Contribution Graph" width="100%"/>
 
 </div>
 
