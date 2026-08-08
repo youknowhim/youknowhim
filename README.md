@@ -258,39 +258,6 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 </tr>
 </table>
 
----
-
-#  HOW I THINK ABOUT SYSTEMS`
-
-<div align="center">
-
-<pre>
-                         ┌─────────────┐
-                         │    CLIENT   │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │     API     │
-                         └──────┬──────┘
-                                │
-                  ┌─────────────┼─────────────┐
-                  │             │             │
-                  ▼             ▼             ▼
-             ┌─────────┐   ┌─────────┐   ┌─────────┐
-             │ CACHE   │   │ SERVICE │   │  QUEUE  │
-             │ Redis   │   │ Node.js │   │  Kafka  │
-             └─────────┘   └────┬────┘   └────┬────┘
-                                │             │
-                                ▼             ▼
-                         ┌─────────────┐  ┌──────────┐
-                         │  DATABASE   │  │ WORKERS  │
-                         │ MySQL/Mongo │  │  Async   │
-                         └─────────────┘  └──────────┘
-</pre>
-
-</div>
-
 #  `CURRENTLY EXPLORING`
 
 <div align="center">
@@ -323,15 +290,22 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 ---
 
-#  `CONTRIBUTION ACTIVITY`
+# `CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7CFFB2/youknowhim" alt="Pallav Rai GitHub Contribution Graph" width="100%"/>
+<img
+  src="https://brettterpstra.com/contrib/generate?username=youknowhim&months=12&theme=dark&width=1200&download=0"
+  alt="Pallav Rai GitHub Contribution Activity"
+  width="100%"
+/>
 
 <br><br>
 
-<sub>Live contribution activity · <a href="https://github.com/youknowhim">github.com/youknowhim</a></sub>
+<sub>
+ Live GitHub contribution activity ·
+<a href="https://github.com/youknowhim">youknowhim</a>
+</sub>
 
 </div>
 
