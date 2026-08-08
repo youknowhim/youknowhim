@@ -290,22 +290,13 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 ---
 
-# `CONTRIBUTION ACTIVITY`
-
 <div align="center">
 
 <img
-  src="https://brettterpstra.com/contrib/generate?username=youknowhim&months=12&theme=dark&width=1200&download=0"
-  alt="Pallav Rai GitHub Contribution Activity"
+  src="https://metrics.lecoq.io/youknowhim?template=classic&base=header%2Cactivity%2Crepositories%2Cmetadata&config_timezone=Asia%2FKolkata&plugin_isocalendar=1&plugin_isocalendar_duration=full-year"
+  alt="Pallav Rai GitHub Contribution Calendar"
   width="100%"
 />
-
-<br><br>
-
-<sub>
- Live GitHub contribution activity ·
-<a href="https://github.com/youknowhim">youknowhim</a>
-</sub>
 
 </div>
 
