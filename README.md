@@ -45,7 +45,7 @@
 
 ---
 
-#  `// ABOUT ME`
+#  `ABOUT ME`
 
 <table>
 <tr>
@@ -177,7 +177,7 @@
 ### `GrindTech`
 
 <a href="https://grindtech.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-00E5FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/_OPEN_LIVE_DEMO-00E5FF?style=for-the-badge&logoColor=black"/>
 </a>
 
 </div>
@@ -214,7 +214,7 @@ An **AI-powered interview preparation platform** designed around realistic inter
 <br>
 
 <a href="https://grindtech.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_grindtech.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/_grindtech.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
 </a>
 
 </td>
@@ -223,12 +223,12 @@ An **AI-powered interview preparation platform** designed around realistic inter
 
 <div align="center">
 
-## 📊 ABG GROWTH ENGINE
+## ABG GROWTH ENGINE
 
 ### `Web Analytics Platform`
 
 <a href="https://abggrowthengine.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-7CFFB2?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/_OPEN_LIVE_DEMO-7CFFB2?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </div>
@@ -268,7 +268,7 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 <br>
 
 <a href="https://abggrowthengine.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_abggrowthengine.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/_abggrowthengine.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=7CFFB2"/>
 </a>
 
 </td>
@@ -278,7 +278,7 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 ---
 
-# `// HOW I THINK ABOUT SYSTEMS`
+#  HOW I THINK ABOUT SYSTEMS`
 
 <div align="center">
 
@@ -309,7 +309,7 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 </div>
 
-### Engineering principles
+Engineering principles
 
 `01` Keep the critical path small.  
 `02` Move expensive work to asynchronous flows when possible.  
@@ -321,7 +321,7 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 ---
 
-#  `// CURRENTLY EXPLORING`
+#  `CURRENTLY EXPLORING`
 
 <div align="center">
 
@@ -337,7 +337,7 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 ---
 
-# `// GITHUB TELEMETRY`
+# `GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -353,7 +353,7 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 ---
 
-#  `// CONTRIBUTION ACTIVITY`
+#  `CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
@@ -363,7 +363,7 @@ A lightweight analytics platform for tracking website behaviour and turning acti
 
 ---
 
-# 🖥️ `// DEVELOPER STATUS`
+#  `DEVELOPER STATUS`
 
 <div align="center">
 
@@ -412,14 +412,6 @@ next:
 ---
 
 <div align="center">
-
-<a href="https://github.com/youknowhim">
-<img src="https://img.shields.io/badge/GITHUB-youknowhim-0D1117?style=for-the-badge&logo=github&logoColor=7CFFB2"/>
-</a>
-
-<a href="https://grindtech.vercel.app/">
-<img src="https://img.shields.io/badge/GRINDTECH-LIVE-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
-</a>
 
 <br><br>
 
